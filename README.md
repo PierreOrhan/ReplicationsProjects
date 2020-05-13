@@ -12,7 +12,7 @@
 Most papers will be either machine learning or computational neuroscience papers.
 
 The Manifest and Project config files are used to obtain the same environment as mine in Julia. Note that since these work are exploratory I used their most of the library I know in Julia, and some might not be needed for some implementations.
-The implementations are runned on the GPU when possible.
+The implementations are runned on the GPU when possible/useful.
 
 # Papers implemented:
 - Boucheny, C., Brunel, N. & Arleo, A. A Continuous Attractor Network Model Without Recurrent Excitation: Maintenance and Integration in the Head Direction Cell System. J Comput Neurosci 18, 205–227 (2005). https://doi.org/10.1007/s10827-005-6559-y
